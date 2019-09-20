@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome To Kirby's Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/ChristianKirby/DigitalMediaPortfolio_2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
